@@ -1,0 +1,4 @@
+status,transaction_count,total_amount,average_amount
+FAILED,3,2900,966.6666666666666
+PENDING,2,1950,975.0
+SUCCESS,5,8100,1620.0

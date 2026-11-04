@@ -1,0 +1,4 @@
+txn_id,customer,amount,status,payment_mode
+TXN202,Amit,1200,FAILED,NEFT
+TXN206,Neha,750,FAILED,UPI
+TXN210,Anjali,950,FAILED,RTGS

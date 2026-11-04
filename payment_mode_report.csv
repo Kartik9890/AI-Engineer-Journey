@@ -1,0 +1,5 @@
+payment_mode,count,sum,mean
+IMPS,2,1250,625.0
+NEFT,2,4200,2100.0
+RTGS,2,2950,1475.0
+UPI,4,4550,1137.5

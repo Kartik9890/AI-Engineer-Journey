@@ -1,0 +1,4 @@
+txn_id,amount,status
+T1,1000,SUCCESS
+T2,2000,FAILED
+T3,1500,SUCCESS
