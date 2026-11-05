@@ -82,3 +82,11 @@ axes[3].set_ylabel("Amount (₹)")
 
 # 7. Display dashboard
 plt.show()
+
+# Save dashboard as PNG
+plt.savefig("payment_dashboard.png", dpi=300, bbox_inches="tight")
+
+# Save dashboard as PDF
+plt.savefig("payment_dashboard.pdf", bbox_inches="tight")
+
+plt.show()
